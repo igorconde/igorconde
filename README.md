@@ -21,5 +21,4 @@
 |:---:|:---:|:---:|:---:|
 
 
-
-  ![visitors](https://visitor-badge.glitch.me/badge?page_id=igorconde/igorconde)
+![](https://komarev.com/ghpvc/?username=igorconde&label=Profile+Views)
