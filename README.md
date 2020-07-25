@@ -2,7 +2,7 @@
 ## Hi :wave: Devs, 
 
 <p align="center">
-  <img src="./img/github.gif" width=100>
+  <img src="https://github.com/igorconde/igorconde/blob/master/img/github.gif?raw=true" width=100>
   <br><br>
 </p>
 
