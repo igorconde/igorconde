@@ -12,12 +12,12 @@
 </p>
 
 ### Programming Languages  :rocket:
-|<img src="./img/php.png" alt="Php" width=80> | <img src="./img/node.png" alt="Node JS" width=55> 
+|<img src="https://github.com/igorconde/igorconde/blob/master/img/php.png?raw=true" alt="Php" width=80> | <img src="https://github.com/igorconde/igorconde/blob/master/img/node.png?raw=true" alt="Node JS" width=55> 
 |:---:|:---:|
 
 
 ### Tools :fire:
-|<img src="./img/netbeans.png" width=60> | <img src="./img/github.svg" width=60> | <img src="./img/vscode.png" width=60> | <img src="./img/hyper.png" width=60> | 
+|<img src="https://github.com/igorconde/igorconde/blob/master/img/netbeans.png?raw=true" width=60> | <img src="https://raw.githubusercontent.com/igorconde/igorconde/2ddc76ca827699e02d2abc47788585af3600c576/img/github.svg" width=60> | <img src="https://github.com/igorconde/igorconde/blob/master/img/vscode.png?raw=true" width=60> | <img src="https://github.com/igorconde/igorconde/blob/master/img/hyper.png?raw=true" width=60> | 
 |:---:|:---:|:---:|:---:|
 
 
