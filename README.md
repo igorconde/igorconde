@@ -7,6 +7,8 @@
 <a href="https://linkedin.com/in/igor-conde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="igor-conde" height="30" width="40" /></a>
 </p>
 
+<a href="https://app.daily.dev/igor_conde"><img src="https://api.daily.dev/devcards/v2/GblC6vN8G.png?r=erk&type=default" width="356" alt="Igor Conde's Dev Card"/></a>
+
 ## ✨ Technologies
 ### Languages
 ![](https://skillicons.dev/icons?i=js,ts,java,php,py,lua,cs,c)
