@@ -14,10 +14,10 @@
 ![](https://skillicons.dev/icons?i=js,ts,java,php,py,lua,cs,c)
   
 ### Front-end
-![](https://skillicons.dev/icons?i=react,vue,angular,redux,styledcomponents,emotion,sass,tailwindcss,css,bootstrap,vite,nextjs,react,jquery,d3,materialui,pug,electron,gatsby,html,alpinejs)
+![](https://skillicons.dev/icons?i=react,vue,angular,redux,styledcomponents,emotion,sass,tailwindcss,css,bootstrap,vite,nextjs,react,jquery,d3,materialui,pug,electron,gatsby,html,alpinejs,bun,codepen,vuetify,webpack,deno,pinia)
   
 ### Back-end and Infrastructure
-![](https://skillicons.dev/icons?i=nodejs,express,flask,hibernate,laravel,maven,nestjs,prisma,spring,symfony,nginx,redis,flask,fastapi,graphql,cloudflare,netlify)
+![](https://skillicons.dev/icons?i=nodejs,express,flask,hibernate,laravel,maven,nestjs,prisma,spring,symfony,nginx,redis,flask,fastapi,graphql,cloudflare,netlify,rabbitmq,reactivex)
 
 ### Database
 ![](https://skillicons.dev/icons?i=firebase,mongodb,mysql,postgres,sqlite)
@@ -26,7 +26,7 @@
 ![](https://skillicons.dev/icons?i=figma,ps)
 
 ### Testing
-![](https://skillicons.dev/icons?i=jest,selenium,gherkin)
+![](https://skillicons.dev/icons?i=jest,selenium,gherkin,vitest,cypress)
 
 ### Tooling and Misc
-![](https://skillicons.dev/icons?i=docker,github,git,idea,vscode,visualstudio,eclipse,neovim,linux,bash,powershell,regex,unity,md)
+![](https://skillicons.dev/icons?i=docker,github,git,idea,vscode,vscodium,visualstudio,eclipse,neovim,linux,bash,powershell,regex,unity,md,ae,anaconda,androidstudio,bitbucket,webstorm,windows,wordpress,babel,devto,discord,phpstorm,postman,pycharm,sentry,yarn)
